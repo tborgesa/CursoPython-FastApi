@@ -1,4 +1,5 @@
 #https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq
+#https://www.hashtagtreinamentos.com/curso-de-fastapi-python
 from fastapi import FastAPI
 
 app = FastAPI()
